@@ -1,0 +1,6 @@
+1. Run dbschema.sql to create tables.
+2. Populate table by running populate.sql
+3. import user.java file on Eclipse and run it. Compile and run this file.
+4. Use drop.sql to drop all created tables.
+
+Note: config.java file is used to render better on csora server.
